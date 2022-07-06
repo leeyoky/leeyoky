@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=F5A9BC&text=Welcome&fontColor=ffffff&fontAlign=50&fontAlignY=55&animation=twinkling)
-<p>I'm yoki from KOREA. </p>
 
 
 
