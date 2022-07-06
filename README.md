@@ -19,4 +19,4 @@
 </div>
 <br>
   
-  ![Yoki GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Yoki GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoki&show_icons=true&theme=radical)
